@@ -1,4 +1,4 @@
 import random()
-n=randint.random(1,10)
+n=randint.random(1,5)
 for i in range(n):
-	print("Hello world")
+	print("Hello world \n")
